@@ -1,4 +1,3 @@
--- Creación de la base de datos (puedes cambiar el nombre si lo deseas)
 CREATE DATABASE IF NOT EXISTS negocio_db;
 USE negocio_db;
 
