@@ -13,4 +13,4 @@ Texto completamente distinto desde main
 + Nombres: Sebastian Jorge
 + Paralelo: B
 + CI: 13813741
-+ Fecha: 18-10-2026
++ Fecha: 18 de octubre del 2026
